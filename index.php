@@ -56,7 +56,7 @@
                 facilitate delegate education through substantive diplomatic debate. </p>
             </div>
             <div class="col-md-6">
-                <img class="featurette-image img-responsive" src= "img/opening.jpg">
+                <img class="featurette-image img-responsive hover-grey" src= "img/opening.jpg">
             </div>
         </div>
 
@@ -64,7 +64,7 @@
 
         <div class="row-front">
             <div class="col-md-6">
-                <img class="featurette-image img-responsive" src="img/Opening_Head_Chairs.jpg">
+                <img class="featurette-image img-responsive hover-grey" src="img/Opening_Head_Chairs.jpg">
             </div>
             <div class="col-md-6">
                 <h2 class="featurette-heading">Who are we?</h2>
@@ -88,7 +88,7 @@
                 international issues facing our world today.</p>
             </div>
             <div class="col-md-6">
-                <img class="featurette-image img-responsive" src = "img/Outreach.jpg">
+                <img class="featurette-image img-responsive hover-grey" src = "img/Outreach.jpg">
             </div>
         </div>
 
